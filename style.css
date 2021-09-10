@@ -13,7 +13,7 @@
     height: 80px;
     display: flex;
     justify-content: center;
-  align-items: center;
+    align-items: center;
     font-size: 1.2rem;
     position: sticky;
     top: 0;
@@ -21,7 +21,7 @@
   }
   .nav__container {
     display: flex;
-    /*justify-content: space-between;*/
+    justify-content: space-between;
     height: 80px;
     z-index: 1;
     width: 100%;
@@ -42,8 +42,7 @@
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
-    padding: 1.5rem;
-   
+  
   }
   
   .navbar__menu {
@@ -94,7 +93,7 @@
     transition: all 0.3s ease;
   }
   @media screen and (max-width:960px) {
-    .navbar__container {
+    .nav__container {
       display: flex;
       justify-content: space-between;
       height: 80px;
@@ -139,6 +138,7 @@
       width: 100%;
     }
     .navbar__link {
+      width: 100%;
       text-align: center;
       padding: 2rem;
       width: 100%;
