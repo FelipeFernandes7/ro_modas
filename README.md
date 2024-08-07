@@ -1,7 +1,7 @@
 
 <h1>Projeto Rô Modas 👜 </h1> 
 <h2>Visualizão da página funcionando 🤩</h2>
-link:https://felipefernandes7.github.io/ProjetoRoModas/
+link:https://felipefernandes7.github.io/ro_modas/
 </br>
 .
 </br>
